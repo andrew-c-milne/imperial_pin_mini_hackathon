@@ -6,3 +6,7 @@ This is a simple repository to act as a space to share work for the mini-hackath
 2) have fun!
 
 if you would like to post your work here, please upload or commit to the submissions folder.
+
+background links:
+[kaggle wine](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
+
